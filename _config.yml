@@ -1,6 +1,19 @@
-title: Minimal theme
+title: <p align="center"> Nikhil Sharma </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/nikhil-sharma-23234b166/">LinkedIn</a> |
+  <a href="https://github.com/ML-nikhil-sharma">GitHub</a>
+  
+  <br>   
+  Aspiring Data Scientist with an overall experience of 3 years and 3
+months who wants to work on industry level challenging projects in a
+motivating and trustworthy environment.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
